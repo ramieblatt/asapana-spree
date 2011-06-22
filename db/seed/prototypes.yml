@@ -1,0 +1,13 @@
+--- 
+- name: Shirt
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "534024676"
+- name: Mug
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "559807879"
+- name: Bag
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "571598464"

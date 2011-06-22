@@ -1,0 +1,66 @@
+--- 
+- name: model
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "39476074"
+  presentation: Model
+- name: brand
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "161337574"
+  presentation: Brand
+- name: shirt_fabric
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "209471856"
+  presentation: Fabric
+- name: shirt_sleeve_length
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "305002717"
+  presentation: Sleeve
+- name: mug_type
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "317319559"
+  presentation: Type
+- name: bag_type
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "408437751"
+  presentation: Type
+- name: manufacturer
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "560029305"
+  presentation: Manufacturer
+- name: bag_size
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "591802549"
+  presentation: Size
+- name: mug_size
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "704092869"
+  presentation: Size
+- name: gender
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "730553315"
+  presentation: Gender
+- name: shirt_fit
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "793908548"
+  presentation: fit
+- name: bag_material
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "901906169"
+  presentation: Material
+- name: shirt_type
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  id: "905834902"
+  presentation: Type

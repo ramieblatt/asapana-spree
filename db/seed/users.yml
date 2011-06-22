@@ -1,0 +1,47 @@
+--- 
+- ship_address_id: "1072978398"
+  salt: 7vYGAS9ZQXp3J1hnIefF
+  bill_address_id: "1072978397"
+  last_request_at: 2011-06-22 18:19:56.842321
+  single_access_token: s6pXK488G1A7vckGIzNT
+  created_at: 2010-10-08 05:03:12.641669
+  remember_token_expires_at: 
+  crypted_password: 9bf1ed3bf430ebd4d4adad97264950b684fa89fd669b10cd36def80501eac2329abaf77b42ba84bbf8cea331bcd5e7b4738820d8651fcc9019ea35d5daeb7342
+  perishable_token: H5iH-odmiSkQpGwlG43x
+  updated_at: 2011-06-22 18:19:56.846587
+  api_key: 
+  openid_identifier: 
+  current_login_ip: 161.216.175.27
+  failed_login_count: "0"
+  id: "1068482856"
+  current_login_at: 2011-06-21 14:29:22.442042
+  login_count: "27"
+  persistence_token: 18e7117be38578a17b8e39b53c5157430d3be7608a6a037aa64d14eb9b963fec5e1f335ad12d36a05acbfae8fe9d6b03021e84d970d2bfc1775e500acd6179d8
+  remember_token: 
+  last_login_ip: 161.216.150.128
+  login: admin@asapana.com
+  last_login_at: 2011-06-14 04:15:05.285633
+  email: admin@asapana.com
+- ship_address_id: "1072978426"
+  salt: EeDewMfQMrG93Se4iW4j
+  bill_address_id: "1072978425"
+  last_request_at: 2011-05-07 07:37:10.550629
+  single_access_token: 6ntu6Fv-Zl4HDu_MEP3b
+  created_at: 2011-05-07 07:26:47.65196
+  remember_token_expires_at: 
+  crypted_password: cb75948952ccc1236d24ede79a624f106e53607bef544c36375dcb30358ed4cea155bdf09be3a69ec3df73cd977812d34a7a6bc4c62aec9c58aacd7b70fb7a5c
+  perishable_token: zQ_zBcUaXHEAXFDckgbP
+  updated_at: 2011-05-07 07:37:10.555228
+  api_key: 
+  openid_identifier: 
+  current_login_ip: 95.209.217.17
+  failed_login_count: "0"
+  id: "1068482857"
+  current_login_at: 2011-05-07 07:26:47.650629
+  login_count: "1"
+  persistence_token: e04f6b3f3326367464b788cc3ec66a622aeb6fcf2eb0ab6bd72b6ea8dd97f1938d03ae0a3611beb94f3e8b165528a6dcc4155e764a122f60b058d90d6c81d1bf
+  remember_token: 
+  last_login_ip: 
+  login: mirotest2@mali.con
+  last_login_at: 
+  email: mirotest2@mali.con

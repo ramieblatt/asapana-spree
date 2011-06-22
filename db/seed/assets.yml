@@ -1,0 +1,709 @@
+--- 
+- position: "1"
+  attachment_file_name: ror_tote.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "1"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "459084718"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_tote_back.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "2"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "459084718"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_bag.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "3"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "723959550"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "4"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "1025786064"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_back.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "5"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "1025786064"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_jr_spaghetti.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "6"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "1060500592"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_mug.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "7"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "248786582"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_mug_back.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "8"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "248786582"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_ringer.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "9"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "187438981"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_ringer_back.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "10"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "187438981"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_stein.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "11"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "1035865702"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_stein_back.jpeg
+  attachment_width: "360"
+  attachment_content_type: image/jpg
+  attachment_height: "360"
+  id: "12"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "1035865702"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: apache_baseball.png
+  attachment_width: "504"
+  attachment_content_type: image/png
+  attachment_height: "484"
+  id: "1004"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "706676762"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ruby_baseball.png
+  attachment_width: "495"
+  attachment_content_type: image/png
+  attachment_height: "477"
+  id: "1008"
+  type: Image
+  viewable_type: Product
+  alt: 
+  attachment_size: 
+  viewable_id: "569012001"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_green.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1009"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "529709246"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_green.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1010"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "529709246"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_green.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1011"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "97292824"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_green.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1012"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "97292824"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_green.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1013"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "265742438"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_green.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1014"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "265742438"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_blue.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1015"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "1013589412"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_blue.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1016"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "1013589412"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_blue.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1017"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "664770399"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_blue.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1018"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "664770399"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_blue.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1019"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "405540681"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_blue.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1020"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "405540681"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_red.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1021"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "568516732"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_red.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1022"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "568516732"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_red.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1023"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "947339321"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_red.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1024"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "947339321"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: ror_baseball_jersey_red.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1025"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "325821322"
+  attachment_updated_at: 
+- position: "2"
+  attachment_file_name: ror_baseball_jersey_back_red.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "240"
+  id: "1026"
+  type: Image
+  viewable_type: Variant
+  alt: 
+  attachment_size: 
+  viewable_id: "325821322"
+  attachment_updated_at: 
+- position: "1"
+  attachment_file_name: AS_BO_01-5-1.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1028"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500593"
+  attachment_updated_at: 2010-10-20 22:55:03.037057
+- position: "1"
+  attachment_file_name: AS_BO_02-5SP.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1029"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500594"
+  attachment_updated_at: 2010-10-20 23:52:39.23033
+- position: "1"
+  attachment_file_name: AS_RD_03-6.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1030"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500595"
+  attachment_updated_at: 2010-10-20 22:56:46.657057
+- position: "1"
+  attachment_file_name: AS_RD_05-8.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1031"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500596"
+  attachment_updated_at: 2010-10-20 23:08:57.165621
+- position: "1"
+  attachment_file_name: AS_RD_05-8SP.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1032"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500597"
+  attachment_updated_at: 2010-10-20 23:09:38.895621
+- position: "1"
+  attachment_file_name: AS_RD_06-9SP.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1033"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500598"
+  attachment_updated_at: 2010-10-20 23:11:05.575621
+- position: "1"
+  attachment_file_name: AS_RD_08-12.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1035"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500600"
+  attachment_updated_at: 2010-10-20 22:53:46.277057
+- position: "1"
+  attachment_file_name: AS_RD_07-10.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1036"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500599"
+  attachment_updated_at: 2010-10-20 23:00:08.615621
+- position: "1"
+  attachment_file_name: AS_RT_01-6.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1038"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500601"
+  attachment_updated_at: 2010-10-20 23:23:06.105621
+- position: "1"
+  attachment_file_name: AS_RT_03-9.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1039"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500602"
+  attachment_updated_at: 2010-10-20 23:25:15.395621
+- position: "1"
+  attachment_file_name: square_plate_thumb_white.png
+  attachment_width: "36"
+  attachment_content_type: image/png
+  attachment_height: "36"
+  id: "1041"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500603"
+  attachment_updated_at: 2010-10-13 00:48:12.197094
+- position: "1"
+  attachment_file_name: AS_SQ_02-6.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1042"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500604"
+  attachment_updated_at: 2010-10-20 22:57:19.877057
+- position: "1"
+  attachment_file_name: AS_SQ_02-6SP.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1043"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500605"
+  attachment_updated_at: 2010-10-20 22:57:44.537057
+- position: "1"
+  attachment_file_name: AS_SQ_03-8.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1044"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500606"
+  attachment_updated_at: 2010-10-20 23:10:29.485621
+- position: "1"
+  attachment_file_name: AS_SQ_04-9SP.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1045"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500607"
+  attachment_updated_at: 2010-10-20 23:11:41.725621
+- position: "1"
+  attachment_file_name: AS_SQ_04-9.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1046"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500608"
+  attachment_updated_at: 2010-10-20 23:12:29.175621
+- position: "1"
+  attachment_file_name: AS_HE_01-7.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1048"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500609"
+  attachment_updated_at: 2010-10-20 23:26:23.715621
+- position: "1"
+  attachment_file_name: AS_HE_02-8.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1049"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500610"
+  attachment_updated_at: 2010-10-20 23:04:27.745621
+- position: "1"
+  attachment_file_name: AS_CO_02-7.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1051"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500611"
+  attachment_updated_at: 2010-10-20 22:59:04.107057
+- position: "1"
+  attachment_file_name: AS_PH_01-7.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1053"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500613"
+  attachment_updated_at: 2010-10-20 23:05:10.025621
+- position: "1"
+  attachment_file_name: AS_PH_02-10.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1054"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500614"
+  attachment_updated_at: 2010-10-20 22:59:36.437057
+- position: "1"
+  attachment_file_name: AS_CO_03-10.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1055"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500612"
+  attachment_updated_at: 2010-10-20 22:48:08.357057
+- position: "2"
+  attachment_file_name: AS_BO_01-5-2.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1056"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500593"
+  attachment_updated_at: 2010-10-20 22:55:12.167057
+- position: "2"
+  attachment_file_name: AS_BO_02-5SP-1.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1057"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500594"
+  attachment_updated_at: 2010-10-20 23:52:49.299778
+- position: "1"
+  attachment_file_name: AS_RT_03-9.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1058"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500615"
+  attachment_updated_at: 2010-10-20 23:18:08.165621
+- position: "1"
+  attachment_file_name: AS_SQ_02-6SP.jpg
+  attachment_width: "640"
+  attachment_content_type: image/jpeg
+  attachment_height: "480"
+  id: "1059"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500616"
+  attachment_updated_at: 2011-05-05 23:41:58.050589
+- position: "1"
+  attachment_file_name: RAJ_RD_04-06.png
+  attachment_width: "240"
+  attachment_content_type: image/png
+  attachment_height: "180"
+  id: "1061"
+  type: Image
+  viewable_type: Product
+  alt: ""
+  attachment_size: 
+  viewable_id: "1060500617"
+  attachment_updated_at: 2011-06-06 22:18:27.182041

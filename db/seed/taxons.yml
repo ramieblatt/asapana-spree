@@ -1,0 +1,136 @@
+--- 
+- permalink: categories/
+  name: Categories
+  position: "0"
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  lft: "1"
+  id: "1000"
+  parent_id: 
+  description: 
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "12"
+  taxonomy_id: "854451430"
+- permalink: categories/bowls/
+  name: Bowls
+  position: "0"
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-12 23:41:04.874721
+  lft: "2"
+  id: "1001"
+  parent_id: "1000"
+  description: ""
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "3"
+  taxonomy_id: "854451430"
+- permalink: categories/square/
+  name: Square Plates
+  position: "2"
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-13 01:14:51.204199
+  lft: "6"
+  id: "1002"
+  parent_id: "1000"
+  description: ""
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "7"
+  taxonomy_id: "854451430"
+- permalink: categories/rectangle/
+  name: Rectangle Plates
+  position: "3"
+  created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-13 01:14:53.024199
+  lft: "8"
+  id: "1003"
+  parent_id: "1000"
+  description: ""
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "9"
+  taxonomy_id: "854451430"
+- permalink: categories/shaped/
+  name: Shaped Plates
+  position: "4"
+  created_at: 2010-10-12 23:43:54.494721
+  updated_at: 2010-10-13 01:14:55.324199
+  lft: "10"
+  id: "307170552"
+  parent_id: "1000"
+  description: ""
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "11"
+  taxonomy_id: "854451430"
+- permalink: categories/round/
+  name: Round Plates
+  position: "1"
+  created_at: 2010-10-12 23:52:06.054721
+  updated_at: 2010-10-13 01:14:49.284199
+  lft: "4"
+  id: "307170554"
+  parent_id: "1000"
+  description: ""
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "5"
+  taxonomy_id: "854451430"
+- permalink: line/
+  name: Line
+  position: "0"
+  created_at: 2010-10-20 22:07:48.687057
+  updated_at: 2010-10-20 22:29:07.987057
+  lft: "13"
+  id: "307170555"
+  parent_id: 
+  description: 
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "18"
+  taxonomy_id: "854451431"
+- permalink: line/sativa/
+  name: Sativa (elegant/premium)
+  position: "0"
+  created_at: 2010-10-20 22:08:21.787057
+  updated_at: 2011-06-06 22:34:34.576033
+  lft: "16"
+  id: "307170556"
+  parent_id: "307170555"
+  description: 
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "17"
+  taxonomy_id: "854451431"
+- permalink: line/rajas/
+  name: Rajas (casual/day-to-day)
+  position: "0"
+  created_at: 2010-10-20 22:08:29.507057
+  updated_at: 2011-06-06 22:34:51.6896
+  lft: "14"
+  id: "307170557"
+  parent_id: "307170555"
+  description: 
+  icon_file_size: 
+  icon_content_type: 
+  icon_file_name: 
+  icon_updated_at: 
+  rgt: "15"
+  taxonomy_id: "854451431"

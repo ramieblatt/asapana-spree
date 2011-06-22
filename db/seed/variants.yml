@@ -1,0 +1,529 @@
+--- 
+- count_on_hand: "10"
+  price: "13.99"
+  product_id: "248786582"
+  cost_price: "11.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "52862384"
+  height: 
+  sku: ROR-00014
+  width: 
+- count_on_hand: "14"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.217094
+  depth: 
+  weight: 
+  id: "97292824"
+  height: 
+  sku: ROR-00006
+  width: 
+- count_on_hand: "10"
+  price: "21.99"
+  product_id: "1025786064"
+  cost_price: "20.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.497094
+  depth: 
+  weight: 
+  id: "205047256"
+  height: 
+  sku: ROR-00010
+  width: 
+- count_on_hand: "10"
+  price: "15.99"
+  product_id: "459084718"
+  cost_price: "13.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "215054540"
+  height: 
+  sku: ROR-00011
+  width: 
+- count_on_hand: "10"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.527094
+  depth: 
+  weight: 
+  id: "265742438"
+  height: 
+  sku: ROR-00009
+  width: 
+- count_on_hand: "10"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.187094
+  depth: 
+  weight: 
+  id: "325821322"
+  height: 
+  sku: ROR-00001
+  width: 
+- count_on_hand: "9"
+  price: "19.99"
+  product_id: "706676762"
+  cost_price: "17.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "381254278"
+  height: 
+  sku: APC-00001
+  width: 
+- count_on_hand: "10"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.287094
+  depth: 
+  weight: 
+  id: "405540681"
+  height: 
+  sku: ROR-00008
+  width: 
+- count_on_hand: "10"
+  price: "17.99"
+  product_id: "187438981"
+  cost_price: "17.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "429921481"
+  height: 
+  sku: ROR-00015
+  width: 
+- count_on_hand: "10"
+  price: "19.99"
+  product_id: "569012001"
+  cost_price: "17.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "461562682"
+  height: 
+  sku: RUB-00001
+  width: 
+- count_on_hand: "10"
+  price: "19.99"
+  product_id: "1060500592"
+  cost_price: "17.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "489273655"
+  height: 
+  sku: ROR-00013
+  width: 
+- count_on_hand: "10"
+  price: "22.99"
+  product_id: "723959550"
+  cost_price: "21.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "504220342"
+  height: 
+  sku: ROR-00012
+  width: 
+- count_on_hand: "10"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.547094
+  depth: 
+  weight: 
+  id: "529709246"
+  height: 
+  sku: ROR-00003
+  width: 
+- count_on_hand: "1"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.267094
+  depth: 
+  weight: 
+  id: "568516732"
+  height: 
+  sku: ROR-00007
+  width: 
+- count_on_hand: "10"
+  price: "16.99"
+  product_id: "1035865702"
+  cost_price: "15.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "599112055"
+  height: 
+  sku: ROR-00016
+  width: 
+- count_on_hand: "10"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.507094
+  depth: 
+  weight: 
+  id: "664770399"
+  height: 
+  sku: ROR-00005
+  width: 
+- count_on_hand: "3"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.247094
+  depth: 
+  weight: 
+  id: "947339321"
+  height: 
+  sku: ROR-00004
+  width: 
+- count_on_hand: "10"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: f
+  deleted_at: 2010-10-13 00:03:39.237094
+  depth: 
+  weight: 
+  id: "1013589412"
+  height: 
+  sku: ROR-00002
+  width: 
+- count_on_hand: "0"
+  price: "19.99"
+  product_id: "1025786064"
+  cost_price: "17.00"
+  is_master: t
+  deleted_at: 
+  depth: 
+  weight: 
+  id: "1025786064"
+  height: 
+  sku: ROR-001
+  width: 
+- count_on_hand: "0"
+  price: "89.50"
+  product_id: "1060500593"
+  cost_price: "80.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.50"
+  weight: 
+  id: "1025786065"
+  height: "5.00"
+  sku: RAJ BO 01-5
+  width: "5.00"
+- count_on_hand: "0"
+  price: "117.50"
+  product_id: "1060500594"
+  cost_price: "100.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786066"
+  height: "5.00"
+  sku: SAT BO 01-5
+  width: "5.00"
+- count_on_hand: "0"
+  price: "123.00"
+  product_id: "1060500595"
+  cost_price: "100.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786067"
+  height: "6.00"
+  sku: SAT RD 02-6
+  width: "6.00"
+- count_on_hand: "0"
+  price: "134.00"
+  product_id: "1060500596"
+  cost_price: "110.50"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786068"
+  height: "8.00"
+  sku: SAT RD 03-8
+  width: "8.00"
+- count_on_hand: "0"
+  price: "100.50"
+  product_id: "1060500597"
+  cost_price: "90.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.50"
+  weight: 
+  id: "1025786069"
+  height: "8.00"
+  sku: RAJ RD 03-8
+  width: "8.00"
+- count_on_hand: "0"
+  price: "117.50"
+  product_id: "1060500598"
+  cost_price: "100.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.50"
+  weight: 
+  id: "1025786070"
+  height: "10.00"
+  sku: RAJ RD 04-10
+  width: "10.00"
+- count_on_hand: "0"
+  price: "145.50"
+  product_id: "1060500599"
+  cost_price: "120.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786071"
+  height: "10.00"
+  sku: SAT RD 04-10
+  width: "10.00"
+- count_on_hand: "0"
+  price: "156.50"
+  product_id: "1060500600"
+  cost_price: "125.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786072"
+  height: "12.00"
+  sku: SAT RD 05-12
+  width: "12.00"
+- count_on_hand: "0"
+  price: "134.00"
+  product_id: "1060500601"
+  cost_price: "110.50"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786073"
+  height: "5.00"
+  sku: SAT RT 01-6
+  width: "6.00"
+- count_on_hand: "0"
+  price: "145.50"
+  product_id: "1060500602"
+  cost_price: "125.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786074"
+  height: "6.00"
+  sku: SAT RT 03-9
+  width: "9.00"
+- count_on_hand: "0"
+  price: "19.99"
+  product_id: "1060500603"
+  cost_price: "17.00"
+  is_master: t
+  deleted_at: 
+  depth: "0.75"
+  weight: 
+  id: "1025786075"
+  height: "4.00"
+  sku: AS SQ 01-4
+  width: "4.00"
+- count_on_hand: "0"
+  price: "134.00"
+  product_id: "1060500604"
+  cost_price: "110.50"
+  is_master: t
+  deleted_at: 
+  depth: "0.75"
+  weight: 
+  id: "1025786076"
+  height: "6.00"
+  sku: SAT SQ 02-6
+  width: "6.00"
+- count_on_hand: "0"
+  price: "111.75"
+  product_id: "1060500605"
+  cost_price: "100.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.50"
+  weight: 
+  id: "1025786077"
+  height: "6.00"
+  sku: RAJ SQ 01-6SP
+  width: "6.00"
+- count_on_hand: "0"
+  price: "145.50"
+  product_id: "1060500606"
+  cost_price: "120.00"
+  is_master: t
+  deleted_at: 
+  depth: "0.75"
+  weight: 
+  id: "1025786078"
+  height: "8.00"
+  sku: SAT SQ 03-8
+  width: "8.00"
+- count_on_hand: "0"
+  price: "128.50"
+  product_id: "1060500607"
+  cost_price: "9.25"
+  is_master: t
+  deleted_at: 
+  depth: "1.50"
+  weight: 
+  id: "1025786079"
+  height: "9.00"
+  sku: RAJ SQ 03-9SP
+  width: "9.00"
+- count_on_hand: "0"
+  price: "139.75"
+  product_id: "1060500608"
+  cost_price: "120.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.50"
+  weight: 
+  id: "1025786080"
+  height: "9.50"
+  sku: RAJ SQ 04-10
+  width: "9.50"
+- count_on_hand: "0"
+  price: "106.00"
+  product_id: "1060500609"
+  cost_price: "90.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786081"
+  height: "8.00"
+  sku: RAJ HE 02-8
+  width: "8.00"
+- count_on_hand: "0"
+  price: "128.50"
+  product_id: "1060500610"
+  cost_price: "110.50"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786082"
+  height: "10.00"
+  sku: RAJ HE 03-10
+  width: "10.00"
+- count_on_hand: "0"
+  price: "140.00"
+  product_id: "1060500611"
+  cost_price: "120.00"
+  is_master: t
+  deleted_at: 
+  depth: "0.75"
+  weight: 
+  id: "1025786083"
+  height: "7.00"
+  sku: SAT CO 02-7
+  width: "5.00"
+- count_on_hand: "0"
+  price: "156.50"
+  product_id: "1060500612"
+  cost_price: "125.00"
+  is_master: t
+  deleted_at: 
+  depth: "0.75"
+  weight: 
+  id: "1025786084"
+  height: "10.00"
+  sku: SAT CO 03-10
+  width: "6.00"
+- count_on_hand: "0"
+  price: "117.50"
+  product_id: "1060500613"
+  cost_price: "97.70"
+  is_master: t
+  deleted_at: 
+  depth: "0.75"
+  weight: 
+  id: "1025786085"
+  height: "6.00"
+  sku: RAJ PH 01-7
+  width: "7.00"
+- count_on_hand: "0"
+  price: "140.00"
+  product_id: "1060500614"
+  cost_price: "120.00"
+  is_master: t
+  deleted_at: 
+  depth: "0.75"
+  weight: 
+  id: "1025786086"
+  height: "8.00"
+  sku: RAJ PH 02-10
+  width: "10.00"
+- count_on_hand: "0"
+  price: "19.99"
+  product_id: "1060500615"
+  cost_price: "17.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.00"
+  weight: 
+  id: "1025786087"
+  height: "6.00"
+  sku: COPY OF AS RT 03-9
+  width: "9.00"
+- count_on_hand: "0"
+  price: "6.75"
+  product_id: "1060500616"
+  cost_price: "4.75"
+  is_master: t
+  deleted_at: 
+  depth: "1.50"
+  weight: 
+  id: "1025786088"
+  height: "6.00"
+  sku: COPY OF AS SQ 02-6SP
+  width: "6.00"
+- count_on_hand: "0"
+  price: "84.00"
+  product_id: "1060500617"
+  cost_price: "75.00"
+  is_master: t
+  deleted_at: 
+  depth: "1.50"
+  weight: 
+  id: "1025786089"
+  height: "6.00"
+  sku: " RAJ RD 02-06"
+  width: "6.00"

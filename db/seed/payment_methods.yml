@@ -1,0 +1,51 @@
+--- 
+- name: Credit Card
+  created_at: 2010-10-08 04:59:45
+  deleted_at: 
+  updated_at: 2011-05-05 18:50:21.976577
+  id: "193416319"
+  display: ""
+  type: Gateway::Bogus
+  environment: development
+  description: Bogus payment gateway for development.
+  active: f
+- name: Credit Card
+  created_at: 2010-10-08 04:59:45
+  deleted_at: 
+  updated_at: 2011-05-05 18:46:54.317018
+  id: "535962117"
+  display: ""
+  type: Gateway::Bogus
+  environment: test
+  description: Bogus payment gateway for test.
+  active: f
+- name: Contact me to arrange payment
+  created_at: 2010-10-08 04:59:45
+  deleted_at: 
+  updated_at: 2011-05-05 20:02:15.471937
+  id: "732545999"
+  display: ""
+  type: PaymentMethod::Check
+  environment: production
+  description: We will contact you to arrange payment and shipping.
+  active: t
+- name: Credit Card
+  created_at: 2010-10-08 04:59:45
+  deleted_at: 
+  updated_at: 2011-05-05 18:47:09.083838
+  id: "842616223"
+  display: ""
+  type: Gateway::Bogus
+  environment: production
+  description: Bogus payment gateway for staging.
+  active: f
+- name: Paypal
+  created_at: 2011-02-23 00:54:53.141408
+  deleted_at: 
+  updated_at: 2011-05-05 18:50:00.99412
+  id: "842616224"
+  display: ""
+  type: Gateway::PayPal
+  environment: production
+  description: ""
+  active: f

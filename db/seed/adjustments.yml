@@ -1,0 +1,2441 @@
+--- 
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:54.781669
+  order_id: "264449064"
+  adjustment_source_id: "968652773"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "684130"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:22.991669
+  order_id: "265374943"
+  adjustment_source_id: "967710488"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "1577115"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "539762571"
+  adjustment_source_id: "539762571"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1690302"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "1069267029"
+  adjustment_source_id: "1069267029"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "9236917"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "1068095656"
+  adjustment_source_id: "1068095656"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "10391880"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:15.911669
+  order_id: "239817259"
+  adjustment_source_id: "942934510"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "25300591"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:14.241669
+  order_id: "228571690"
+  adjustment_source_id: "1004593649"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "39249520"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:41.801669
+  order_id: "349815214"
+  adjustment_source_id: "312761982"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "41408013"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "1039486630"
+  adjustment_source_id: "1039486630"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "46270278"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:32.581669
+  order_id: "216145139"
+  adjustment_source_id: "983385912"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "53166263"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "1014837421"
+  adjustment_source_id: "1014837421"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "55212365"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:07.311669
+  order_id: "192544832"
+  adjustment_source_id: "1023761401"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "78863482"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "1004874852"
+  adjustment_source_id: "1004874852"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "80897412"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:29.591669
+  order_id: "330565047"
+  adjustment_source_id: "365533797"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "85594644"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:59.074146
+  order_id: "183664179"
+  adjustment_source_id: "1015883258"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "87761527"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "983075517"
+  adjustment_source_id: "983075517"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "95404893"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "73849921"
+  adjustment_source_id: "73849921"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "103408025"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "961307330"
+  adjustment_source_id: "961307330"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "108735330"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:10.791669
+  order_id: "145680447"
+  adjustment_source_id: "1053930492"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "124236923"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:35.921669
+  order_id: "146573512"
+  adjustment_source_id: "1053020929"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "125162626"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "953580620"
+  adjustment_source_id: "953580620"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "132199852"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "952376497"
+  adjustment_source_id: "952376497"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "133387601"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:34.381669
+  order_id: "133136121"
+  adjustment_source_id: "831530304"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "136716989"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:00.134146
+  order_id: "134028804"
+  adjustment_source_id: "830621127"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "137642570"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "932702864"
+  adjustment_source_id: "932702864"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "144745328"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "931498615"
+  adjustment_source_id: "931498615"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "145933207"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "906884218"
+  adjustment_source_id: "906884218"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "154844570"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "893297750"
+  adjustment_source_id: "893297750"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "168422838"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "892126383"
+  adjustment_source_id: "892126383"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "169577807"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:40.691669
+  order_id: "94472210"
+  adjustment_source_id: "870241227"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "174642252"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:24.071669
+  order_id: "95676661"
+  adjustment_source_id: "869053234"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "175813809"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:56.744146
+  order_id: "88485925"
+  adjustment_source_id: "859401190"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "177171561"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:22.561669
+  order_id: "89411802"
+  adjustment_source_id: "858458911"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "178064540"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "903421051"
+  adjustment_source_id: "903421051"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "183391643"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "902528130"
+  adjustment_source_id: "902528130"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "184300898"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:53.591669
+  order_id: "46943257"
+  adjustment_source_id: "884152274"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "218435669"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:33.681669
+  order_id: "48114926"
+  adjustment_source_id: "882997035"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "219639976"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "844324943"
+  adjustment_source_id: "844324943"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "224668079"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "843120822"
+  adjustment_source_id: "843120822"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "225855830"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "850712674"
+  adjustment_source_id: "850712674"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "226726274"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "849787035"
+  adjustment_source_id: "849787035"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "227668347"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:46.761669
+  order_id: "36435006"
+  adjustment_source_id: "877965311"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "232958080"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:11.271669
+  order_id: "37328065"
+  adjustment_source_id: "877055750"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "233883781"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:48.641669
+  order_id: "17482993"
+  adjustment_source_id: "930455338"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "247699629"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:23.441669
+  order_id: "8567520"
+  adjustment_source_id: "922607911"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "256632486"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:49.101669
+  order_id: "9493021"
+  adjustment_source_id: "921666016"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "257525345"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "231772182"
+  adjustment_source_id: "231772182"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "262122930"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "821702295"
+  adjustment_source_id: "821702295"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "265119607"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "820530800"
+  adjustment_source_id: "820530800"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "266274704"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "790021435"
+  adjustment_source_id: "790021435"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "270634203"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:31.161669
+  order_id: "518401861"
+  adjustment_source_id: "681145480"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "288322313"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:02.851669
+  order_id: "519327672"
+  adjustment_source_id: "680203391"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "289215486"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "782154552"
+  adjustment_source_id: "782154552"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "296350424"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "780983247"
+  adjustment_source_id: "780983247"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "297505327"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "330565047"
+  adjustment_source_id: "330565047"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "301676563"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:46.291669
+  order_id: "73849921"
+  adjustment_source_id: "35341291"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "315149214"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:17.341669
+  order_id: "488679357"
+  adjustment_source_id: "727710848"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "317324289"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "741864942"
+  adjustment_source_id: "741864942"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "318815246"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "740660503"
+  adjustment_source_id: "740660503"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "320003319"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:50.721669
+  order_id: "480827830"
+  adjustment_source_id: "718766707"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "325158384"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:15.331669
+  order_id: "481999185"
+  adjustment_source_id: "717611658"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "326362381"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:50.291669
+  order_id: "474964377"
+  adjustment_source_id: "707803742"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "327564765"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:29.991669
+  order_id: "475857254"
+  adjustment_source_id: "706894503"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "328490280"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "751848899"
+  adjustment_source_id: "751848899"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "333906979"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "750923066"
+  adjustment_source_id: "750923066"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "334849242"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:01.134146
+  order_id: "465903021"
+  adjustment_source_id: "767182442"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "336347625"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:26.551669
+  order_id: "467107162"
+  adjustment_source_id: "765994643"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "337518868"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "727331319"
+  adjustment_source_id: "727331319"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "342718487"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "726159630"
+  adjustment_source_id: "726159630"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "343873774"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "733841882"
+  adjustment_source_id: "733841882"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "344637498"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "732948771"
+  adjustment_source_id: "732948771"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "345546947"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:36.911669
+  order_id: "455255426"
+  adjustment_source_id: "761134663"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "351009220"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:19.461669
+  order_id: "456181117"
+  adjustment_source_id: "760192702"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "351902017"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "707237680"
+  adjustment_source_id: "707237680"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "353427152"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:21.591669
+  order_id: "428600156"
+  adjustment_source_id: "804565151"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "373471010"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:52.381669
+  order_id: "429493153"
+  adjustment_source_id: "803655784"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "374396901"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "349815214"
+  adjustment_source_id: "349815214"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "378993674"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "703823663"
+  adjustment_source_id: "703823663"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "381957839"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "702619608"
+  adjustment_source_id: "702619608"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "383145528"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:18.401669
+  order_id: "403830194"
+  adjustment_source_id: "779005547"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "400075244"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:45.611669
+  order_id: "391144298"
+  adjustment_source_id: "556742829"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "412696368"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:51.931669
+  order_id: "382369184"
+  adjustment_source_id: "548742745"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "419635674"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:25.561669
+  order_id: "383262055"
+  adjustment_source_id: "547833508"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "420561187"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "649259497"
+  adjustment_source_id: "649259497"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "428187657"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "648055060"
+  adjustment_source_id: "648055060"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "429375732"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:00.534146
+  order_id: "368651700"
+  adjustment_source_id: "596014713"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "439382518"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "627442156"
+  adjustment_source_id: "627442156"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "441534476"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:03.801669
+  order_id: "345435026"
+  adjustment_source_id: "585740373"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "459257816"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:32.161669
+  order_id: "231772182"
+  adjustment_source_id: "195891138"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "461277113"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "620502818"
+  adjustment_source_id: "620502818"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "466310914"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:51.201669
+  order_id: "335228811"
+  adjustment_source_id: "629437518"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "473068495"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "596761353"
+  adjustment_source_id: "596761353"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "480678633"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:37.981669
+  order_id: "308359551"
+  adjustment_source_id: "605973176"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "497577275"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "587078949"
+  adjustment_source_id: "587078949"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "499733701"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:01.731669
+  order_id: "296204679"
+  adjustment_source_id: "668525120"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "510584259"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:39.071669
+  order_id: "297130368"
+  adjustment_source_id: "667583165"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "511477050"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "568274416"
+  adjustment_source_id: "568274416"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "518546448"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "567102733"
+  adjustment_source_id: "567102733"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "519701741"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "542594049"
+  adjustment_source_id: "542594049"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "526391841"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:14.891669
+  order_id: "790021435"
+  adjustment_source_id: "426352382"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "551524735"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:17.951669
+  order_id: "780983247"
+  adjustment_source_id: "418611208"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "558204811"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:55.321669
+  order_id: "782154552"
+  adjustment_source_id: "417456373"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "559409010"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "601813305"
+  adjustment_source_id: "601813305"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "563203233"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "519327672"
+  adjustment_source_id: "519327672"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "566429272"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "518401861"
+  adjustment_source_id: "518401861"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "567371429"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "488679357"
+  adjustment_source_id: "488679357"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "571993693"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:57.144146
+  order_id: "750923066"
+  adjustment_source_id: "448624385"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "587952512"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:29.171669
+  order_id: "751848899"
+  adjustment_source_id: "447682054"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "588845447"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "475857254"
+  adjustment_source_id: "475857254"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "594167942"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "474964377"
+  adjustment_source_id: "474964377"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "595077241"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "481999185"
+  adjustment_source_id: "481999185"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "596504753"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "480827830"
+  adjustment_source_id: "480827830"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "597659734"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:40.221669
+  order_id: "740660503"
+  adjustment_source_id: "442158806"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "602720595"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:16.901669
+  order_id: "741864942"
+  adjustment_source_id: "440970793"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "603892140"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "456181117"
+  adjustment_source_id: "456181117"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "604474525"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "455255426"
+  adjustment_source_id: "455255426"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "605416546"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:47.451669
+  order_id: "732948771"
+  adjustment_source_id: "500216554"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "610710887"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:18.871669
+  order_id: "733841882"
+  adjustment_source_id: "499307037"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "611636640"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:52.861669
+  order_id: "726159630"
+  adjustment_source_id: "490146509"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "612437324"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:27.521669
+  order_id: "727331319"
+  adjustment_source_id: "488991282"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "613641651"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "467107162"
+  adjustment_source_id: "467107162"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "618673338"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "465903021"
+  adjustment_source_id: "465903021"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "619861069"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:49.611669
+  order_id: "862055596"
+  adjustment_source_id: "891057020"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "634387213"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:21.051669
+  order_id: "707237680"
+  adjustment_source_id: "475581673"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "636406634"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:28.551669
+  order_id: "702619608"
+  adjustment_source_id: "530465809"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "640172946"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:07.741669
+  order_id: "703823663"
+  adjustment_source_id: "529278188"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "641344363"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "429493153"
+  adjustment_source_id: "429493153"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "648987201"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "428600156"
+  adjustment_source_id: "428600156"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "649896636"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:16.321669
+  order_id: "539762571"
+  adjustment_source_id: "1020487291"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "651518922"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "615724322"
+  adjustment_source_id: "615724322"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "654051466"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "403830194"
+  adjustment_source_id: "403830194"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "656850002"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "391144298"
+  adjustment_source_id: "391144298"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "677849738"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:59.684146
+  order_id: "648055060"
+  adjustment_source_id: "283103959"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "694801754"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:42.241669
+  order_id: "649259497"
+  adjustment_source_id: "281915952"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "695973293"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "383262055"
+  adjustment_source_id: "383262055"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "703550599"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "382369184"
+  adjustment_source_id: "382369184"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "704459904"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:41.121669
+  order_id: "627442156"
+  adjustment_source_id: "320428591"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "716135858"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "368651700"
+  adjustment_source_id: "368651700"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "718169172"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:24.521669
+  order_id: "1035625630"
+  adjustment_source_id: "1002961742"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "722760507"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:54.101669
+  order_id: "620502818"
+  adjustment_source_id: "310592731"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "724910940"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "345435026"
+  adjustment_source_id: "345435026"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "732013170"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:08.301669
+  order_id: "596761353"
+  adjustment_source_id: "367952066"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "743999301"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:35.451669
+  order_id: "987209861"
+  adjustment_source_id: "1017790295"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "746174244"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "335228811"
+  adjustment_source_id: "335228811"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "751593067"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:06.471669
+  order_id: "587078949"
+  adjustment_source_id: "344016612"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "758595937"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "308359551"
+  adjustment_source_id: "308359551"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "760641695"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:47.911669
+  order_id: "567102733"
+  adjustment_source_id: "397547216"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "772018513"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:28.141669
+  order_id: "568274416"
+  adjustment_source_id: "396391991"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "773222838"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "297130368"
+  adjustment_source_id: "297130368"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "780308640"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "296204679"
+  adjustment_source_id: "296204679"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "781250663"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:43.041669
+  order_id: "542594049"
+  adjustment_source_id: "371722298"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "798887869"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:12.781669
+  order_id: "1068095656"
+  adjustment_source_id: "165053295"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "811631854"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:30.621669
+  order_id: "1069267029"
+  adjustment_source_id: "163898264"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "812835865"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "265374943"
+  adjustment_source_id: "265374943"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "820380991"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "264449064"
+  adjustment_source_id: "264449064"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "821323208"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "862055596"
+  adjustment_source_id: "862055596"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "825151760"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "239817259"
+  adjustment_source_id: "239817259"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "830217163"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:27.091669
+  order_id: "615724322"
+  adjustment_source_id: "583969526"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "840770179"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:55.354146
+  order_id: "1039486630"
+  adjustment_source_id: "193598819"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "842797792"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "228571690"
+  adjustment_source_id: "228571690"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "849933258"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:11.701669
+  order_id: "1014837421"
+  adjustment_source_id: "167930736"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "867462385"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "216145139"
+  adjustment_source_id: "216145139"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "869618963"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:37.541669
+  order_id: "1004874852"
+  adjustment_source_id: "228226979"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "875327522"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "192544832"
+  adjustment_source_id: "192544832"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "877480416"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:12.331669
+  order_id: "983075517"
+  adjustment_source_id: "216519034"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "894555897"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:38.631669
+  order_id: "601813305"
+  adjustment_source_id: "631467759"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "896591516"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "183664179"
+  adjustment_source_id: "183664179"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "902117331"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:13.181669
+  order_id: "961307330"
+  adjustment_source_id: "255015291"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "914702076"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:55.944146
+  order_id: "952376497"
+  adjustment_source_id: "247154552"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "923615477"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:20.141669
+  order_id: "953580620"
+  adjustment_source_id: "245966735"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "924786706"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "146573512"
+  adjustment_source_id: "146573512"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "931905832"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "145680447"
+  adjustment_source_id: "145680447"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "932815327"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:25.991669
+  order_id: "931498615"
+  adjustment_source_id: "33214900"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "944559667"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:45.181669
+  order_id: "932702864"
+  adjustment_source_id: "32026953"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "945731274"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "987209861"
+  adjustment_source_id: "987209861"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "949525797"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "134028804"
+  adjustment_source_id: "134028804"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "952784868"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "133136121"
+  adjustment_source_id: "133136121"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "953693977"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:44.731669
+  order_id: "906884218"
+  adjustment_source_id: "7516093"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "969189440"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:54.914146
+  order_id: "902528130"
+  adjustment_source_id: "62138181"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "973217992"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:31.741669
+  order_id: "903421051"
+  adjustment_source_id: "61228994"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "974143551"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "89411802"
+  adjustment_source_id: "89411802"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "979573050"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "88485925"
+  adjustment_source_id: "88485925"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "980515269"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "95676661"
+  adjustment_source_id: "95676661"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "981770517"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "94472210"
+  adjustment_source_id: "94472210"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "982958578"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:43.501669
+  order_id: "892126383"
+  adjustment_source_id: "55811946"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "988125419"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:13.811669
+  order_id: "893297750"
+  adjustment_source_id: "54656917"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "989329428"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "37328065"
+  adjustment_source_id: "37328065"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1024384289"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "36435006"
+  adjustment_source_id: "36435006"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1025293790"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:44.031669
+  order_id: "849787035"
+  adjustment_source_id: "81388382"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "1030743263"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:22.011669
+  order_id: "850712674"
+  adjustment_source_id: "80446377"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "1031636008"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:54.314146
+  order_id: "843120822"
+  adjustment_source_id: "71195505"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "1032346868"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:25.141669
+  order_id: "844324943"
+  adjustment_source_id: "70007694"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "1033518091"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "48114926"
+  adjustment_source_id: "48114926"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1038705934"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "46943257"
+  adjustment_source_id: "46943257"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1039861241"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "17482993"
+  adjustment_source_id: "17482993"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1044221201"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 05:00:39.511669
+  order_id: "820530800"
+  adjustment_source_id: "110564781"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "1059131946"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:56.334146
+  order_id: "821702295"
+  adjustment_source_id: "109409616"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "1060336339"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "9493021"
+  adjustment_source_id: "9493021"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1067947005"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "8567520"
+  adjustment_source_id: "8567520"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1068888832"
+  type: TaxCharge
+  description: Tax
+- position: 
+  created_at: 2010-10-08 04:59:43
+  updated_at: 2010-10-08 04:59:43
+  order_id: "1035625630"
+  adjustment_source_id: "1035625630"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043774"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2010-10-09 21:24:48.734642
+  updated_at: 2010-10-09 21:27:54.754642
+  order_id: "1069267030"
+  adjustment_source_id: "1069267030"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043775"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2010-10-09 21:27:21.124642
+  updated_at: 2010-10-09 21:27:54.774642
+  order_id: "1069267030"
+  adjustment_source_id: "1053930493"
+  amount: "5.00"
+  adjustment_source_type: Shipment
+  id: "1073043776"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: "1"
+  created_at: 2010-10-13 05:11:16.053863
+  updated_at: 2010-10-13 05:11:16.053863
+  order_id: "1069267031"
+  adjustment_source_id: "1069267031"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043777"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2010-10-13 05:12:06.533863
+  updated_at: 2010-10-13 05:12:06.533863
+  order_id: "1069267031"
+  adjustment_source_id: "1053930494"
+  amount: 
+  adjustment_source_type: Shipment
+  id: "1073043778"
+  type: ShippingCharge
+  description: Shipping (UPS Two Day)
+- position: "1"
+  created_at: 2010-10-13 11:40:41.086192
+  updated_at: 2010-10-13 11:40:41.086192
+  order_id: "1069267032"
+  adjustment_source_id: "1069267032"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043779"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2010-10-14 13:20:17.880073
+  updated_at: 2010-10-14 13:20:17.880073
+  order_id: "1069267033"
+  adjustment_source_id: "1069267033"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043780"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2010-10-19 13:18:51.12286
+  updated_at: 2010-10-19 13:18:51.12286
+  order_id: "1069267034"
+  adjustment_source_id: "1069267034"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043781"
+  type: TaxCharge
+  description: Tax
+- position: "3"
+  created_at: 2010-10-21 05:05:40.739011
+  updated_at: 2011-01-05 18:12:28.228668
+  order_id: "1069267031"
+  adjustment_source_id: "1053930498"
+  amount: 
+  adjustment_source_type: Shipment
+  id: "1073043782"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: "1"
+  created_at: 2011-01-03 23:08:46.17079
+  updated_at: 2011-01-03 23:08:46.17079
+  order_id: "1069267035"
+  adjustment_source_id: "1069267035"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043783"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-01-03 23:10:31.930605
+  updated_at: 2011-01-03 23:10:31.930605
+  order_id: "1069267035"
+  adjustment_source_id: "1053930499"
+  amount: 
+  adjustment_source_type: Shipment
+  id: "1073043784"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: "1"
+  created_at: 2011-01-11 12:32:25.291342
+  updated_at: 2011-01-11 12:32:25.291342
+  order_id: "1069267036"
+  adjustment_source_id: "1069267036"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043785"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-01-11 13:46:31.899099
+  updated_at: 2011-01-11 13:46:31.899099
+  order_id: "1069267037"
+  adjustment_source_id: "1069267037"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043786"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-01-13 08:07:01.780025
+  updated_at: 2011-01-13 08:07:01.780025
+  order_id: "1069267038"
+  adjustment_source_id: "1069267038"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043787"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-01-13 08:07:38.366412
+  updated_at: 2011-01-13 08:07:38.366412
+  order_id: "1069267039"
+  adjustment_source_id: "1069267039"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043788"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-01-14 06:28:59.403557
+  updated_at: 2011-01-14 06:28:59.403557
+  order_id: "1069267040"
+  adjustment_source_id: "1069267040"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043789"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-01-20 18:28:30.314855
+  updated_at: 2011-01-20 18:37:16.594898
+  order_id: "1069267041"
+  adjustment_source_id: "1069267041"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043790"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-01-20 18:30:44.53233
+  updated_at: 2011-01-20 18:37:16.613643
+  order_id: "1069267041"
+  adjustment_source_id: "1053930505"
+  amount: "0.00"
+  adjustment_source_type: Shipment
+  id: "1073043791"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: "1"
+  created_at: 2011-02-11 17:55:27.949635
+  updated_at: 2011-02-11 17:55:27.949635
+  order_id: "1069267042"
+  adjustment_source_id: "1069267042"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043792"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-02-11 17:55:36.319427
+  updated_at: 2011-02-11 17:55:36.319427
+  order_id: "1069267043"
+  adjustment_source_id: "1069267043"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043793"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-02-11 17:57:18.924164
+  updated_at: 2011-02-11 17:57:18.924164
+  order_id: "1069267042"
+  adjustment_source_id: "1053930506"
+  amount: 
+  adjustment_source_type: Shipment
+  id: "1073043794"
+  type: ShippingCharge
+  description: Shipping (UPS Two Day)
+- position: "1"
+  created_at: 2011-02-16 13:20:42.777412
+  updated_at: 2011-02-16 13:20:42.777412
+  order_id: "1069267044"
+  adjustment_source_id: "1069267044"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043795"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-02-23 00:55:09.132544
+  updated_at: 2011-05-05 18:50:55.831087
+  order_id: "1069267045"
+  adjustment_source_id: "1069267045"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043796"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-02-23 00:55:21.175651
+  updated_at: 2011-02-23 00:55:21.175651
+  order_id: "1069267045"
+  adjustment_source_id: "1053930509"
+  amount: 
+  adjustment_source_type: Shipment
+  id: "1073043797"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: "1"
+  created_at: 2011-04-23 11:27:03.771356
+  updated_at: 2011-04-23 11:27:03.771356
+  order_id: "1069267046"
+  adjustment_source_id: "1069267046"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043798"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-05-01 09:44:56.52602
+  updated_at: 2011-05-01 09:44:56.52602
+  order_id: "1069267047"
+  adjustment_source_id: "1069267047"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043799"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-05-05 18:34:39.104289
+  updated_at: 2011-05-05 18:36:15.662342
+  order_id: "1069267048"
+  adjustment_source_id: "1069267048"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043800"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-05-05 18:35:47.845098
+  updated_at: 2011-05-05 18:36:15.680916
+  order_id: "1069267048"
+  adjustment_source_id: "1053930512"
+  amount: "0.00"
+  adjustment_source_type: Shipment
+  id: "1073043801"
+  type: ShippingCharge
+  description: Shipping (UPS Ground)
+- position: "1"
+  created_at: 2011-05-05 19:59:54.990392
+  updated_at: 2011-05-05 20:01:33.09962
+  order_id: "1069267049"
+  adjustment_source_id: "1069267049"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043802"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-05-05 20:01:26.283076
+  updated_at: 2011-05-05 20:01:33.119307
+  order_id: "1069267049"
+  adjustment_source_id: "1053930513"
+  amount: "0.00"
+  adjustment_source_type: Shipment
+  id: "1073043803"
+  type: ShippingCharge
+  description: Shipping (Custom (we will contact you to arrange))
+- position: "1"
+  created_at: 2011-05-05 20:04:13.185737
+  updated_at: 2011-05-05 20:05:54.797945
+  order_id: "1069267050"
+  adjustment_source_id: "1069267050"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043804"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-05-05 20:05:48.769691
+  updated_at: 2011-05-05 20:05:54.818036
+  order_id: "1069267050"
+  adjustment_source_id: "1053930514"
+  amount: "0.00"
+  adjustment_source_type: Shipment
+  id: "1073043805"
+  type: ShippingCharge
+  description: Shipping (We will contact you to arrange shipping)
+- position: "1"
+  created_at: 2011-05-05 20:22:58.96097
+  updated_at: 2011-05-05 20:31:51.129129
+  order_id: "1069267051"
+  adjustment_source_id: "1069267051"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043806"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-05-05 20:23:46.344667
+  updated_at: 2011-05-05 20:31:51.149474
+  order_id: "1069267051"
+  adjustment_source_id: "1053930515"
+  amount: "0.00"
+  adjustment_source_type: Shipment
+  id: "1073043807"
+  type: ShippingCharge
+  description: Shipping (We will contact you to arrange shipping)
+- position: "1"
+  created_at: 2011-05-05 20:58:36.746897
+  updated_at: 2011-05-05 21:01:08.886529
+  order_id: "1069267052"
+  adjustment_source_id: "1069267052"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043808"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-05-05 21:00:21.878404
+  updated_at: 2011-05-05 21:01:08.906393
+  order_id: "1069267052"
+  adjustment_source_id: "1053930516"
+  amount: "0.00"
+  adjustment_source_type: Shipment
+  id: "1073043809"
+  type: ShippingCharge
+  description: Shipping (We will contact you to arrange shipping)
+- position: "1"
+  created_at: 2011-05-07 01:56:08.468597
+  updated_at: 2011-05-07 01:56:08.468597
+  order_id: "1069267053"
+  adjustment_source_id: "1069267053"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043810"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-05-07 06:45:10.617544
+  updated_at: 2011-05-07 07:17:43.824422
+  order_id: "1069267054"
+  adjustment_source_id: "1069267054"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043811"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-05-07 07:15:05.463357
+  updated_at: 2011-05-07 07:17:43.844567
+  order_id: "1069267054"
+  adjustment_source_id: "1053930518"
+  amount: "0.00"
+  adjustment_source_type: Shipment
+  id: "1073043812"
+  type: ShippingCharge
+  description: Shipping (We will contact you to arrange shipping)
+- position: "1"
+  created_at: 2011-05-07 07:18:37.244696
+  updated_at: 2011-05-07 07:18:37.244696
+  order_id: "1069267055"
+  adjustment_source_id: "1069267055"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043813"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-05-11 20:33:34.195535
+  updated_at: 2011-05-11 20:36:17.821553
+  order_id: "1069267056"
+  adjustment_source_id: "1069267056"
+  amount: "0.00"
+  adjustment_source_type: Order
+  id: "1073043814"
+  type: TaxCharge
+  description: Tax
+- position: "2"
+  created_at: 2011-05-11 20:36:03.993582
+  updated_at: 2011-05-11 20:36:17.840831
+  order_id: "1069267056"
+  adjustment_source_id: "1053930520"
+  amount: "0.00"
+  adjustment_source_type: Shipment
+  id: "1073043815"
+  type: ShippingCharge
+  description: Shipping (We will contact you to arrange shipping)
+- position: "1"
+  created_at: 2011-05-11 23:51:26.89815
+  updated_at: 2011-05-11 23:51:26.89815
+  order_id: "1069267057"
+  adjustment_source_id: "1069267057"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043816"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-05-14 20:10:44.597235
+  updated_at: 2011-05-14 20:10:44.597235
+  order_id: "1069267058"
+  adjustment_source_id: "1069267058"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043817"
+  type: TaxCharge
+  description: Tax
+- position: "1"
+  created_at: 2011-06-15 19:36:42.247543
+  updated_at: 2011-06-15 19:36:42.247543
+  order_id: "1069267059"
+  adjustment_source_id: "1069267059"
+  amount: 
+  adjustment_source_type: Order
+  id: "1073043818"
+  type: TaxCharge
+  description: Tax

@@ -1,0 +1,34 @@
+--- 
+- name: descend_by_popularity
+  product_group_id: "651548145"
+  arguments: |+
+    --- []
+    
+  id: "198485605"
+- name: master_price_lte
+  product_group_id: "651548145"
+  arguments: |
+    ---
+    - "20"
+
+  id: "460045304"
+- name: descend_by_popularity
+  product_group_id: "1071416405"
+  arguments: |+
+    --- []
+    
+  id: "471080728"
+- name: in_name_or_keywords
+  product_group_id: "651548145"
+  arguments: |
+    ---
+    - Apache
+
+  id: "745311077"
+- name: in_name
+  product_group_id: "1071416405"
+  arguments: |
+    ---
+    - Rails
+
+  id: "1020499698"

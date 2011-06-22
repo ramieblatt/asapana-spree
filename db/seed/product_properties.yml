@@ -1,0 +1,205 @@
+--- 
+- created_at: 2010-10-08 04:59:45
+  product_id: "1035865702"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "317319559"
+  id: "769225731"
+  value: Stein
+- created_at: 2010-10-08 04:59:45
+  product_id: "723959550"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "408437751"
+  id: "771636467"
+  value: Messenger
+- created_at: 2010-10-08 04:59:45
+  product_id: "187438981"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "209471856"
+  id: "35541550"
+  value: 100% Vellum
+- created_at: 2010-10-08 04:59:45
+  product_id: "1025786064"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "161337574"
+  id: "861445881"
+  value: Wannabe Sports
+- created_at: 2010-10-08 04:59:45
+  product_id: "1060500592"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "560029305"
+  id: "198421197"
+  value: Jerseys
+- created_at: 2010-10-08 04:59:45
+  product_id: "1025786064"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "730553315"
+  id: "323890842"
+  value: Men's
+- created_at: 2010-10-08 04:59:45
+  product_id: "1060500592"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "161337574"
+  id: "710004557"
+  value: Resilance
+- created_at: 2010-10-08 04:59:45
+  product_id: "187438981"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "560029305"
+  id: "1020566108"
+  value: Jerseys
+- created_at: 2010-10-08 04:59:45
+  product_id: "1060500592"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "730553315"
+  id: "172457766"
+  value: Women's
+- created_at: 2010-10-08 04:59:45
+  product_id: "187438981"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "161337574"
+  id: "492240860"
+  value: Conditioned
+- created_at: 2010-10-08 04:59:45
+  product_id: "459084718"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "901906169"
+  id: "393718481"
+  value: Canvas
+- created_at: 2010-10-08 04:59:45
+  product_id: "187438981"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "730553315"
+  id: "1027624887"
+  value: Men's
+- created_at: 2010-10-08 04:59:45
+  product_id: "1025786064"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "793908548"
+  id: "823116847"
+  value: loose
+- created_at: 2010-10-08 04:59:45
+  product_id: "723959550"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "901906169"
+  id: "243202933"
+  value: 600 Denier Polyester
+- created_at: 2010-10-08 04:59:45
+  product_id: "459084718"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "591802549"
+  id: "649013781"
+  value: 15" x 18" x 6"
+- created_at: 2010-10-08 04:59:45
+  product_id: "1060500592"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "793908548"
+  id: "671520151"
+  value: form
+- created_at: 2010-10-08 04:59:45
+  product_id: "1025786064"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "39476074"
+  id: "732604053"
+  value: JK1002
+- created_at: 2010-10-08 04:59:45
+  product_id: "248786582"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "704092869"
+  id: "646472421"
+  value: 4.5" tall, 3.25" dia.
+- created_at: 2010-10-08 04:59:45
+  product_id: "723959550"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "591802549"
+  id: "1067875249"
+  value: 14 1/2" x 12" x 5"
+- created_at: 2010-10-08 04:59:45
+  product_id: "187438981"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "793908548"
+  id: "520201478"
+  value: loose
+- created_at: 2010-10-08 04:59:45
+  product_id: "1060500592"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "39476074"
+  id: "849606441"
+  value: TL174
+- created_at: 2010-10-08 04:59:45
+  product_id: "1035865702"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "704092869"
+  id: "1065431905"
+  value: 6.75" tall, 3.75" dia. base, 3" dia. rim
+- created_at: 2010-10-08 04:59:45
+  product_id: "187438981"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "39476074"
+  id: "94685118"
+  value: TL9002
+- created_at: 2010-10-08 04:59:45
+  product_id: "1025786064"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "905834902"
+  id: "183653538"
+  value: Baseball Jersey
+- created_at: 2010-10-08 04:59:45
+  product_id: "1025786064"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "305002717"
+  id: "843432044"
+  value: long
+- created_at: 2010-10-08 04:59:45
+  product_id: "1060500592"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "905834902"
+  id: "335217946"
+  value: Jr Spaghetti T
+- created_at: 2010-10-08 04:59:45
+  product_id: "1025786064"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "209471856"
+  id: "739259141"
+  value: 100% Cotton
+- created_at: 2010-10-08 04:59:45
+  product_id: "1060500592"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "305002717"
+  id: "726438360"
+  value: none
+- created_at: 2010-10-08 04:59:45
+  product_id: "187438981"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "905834902"
+  id: "620508557"
+  value: Ringer T
+- created_at: 2010-10-08 04:59:45
+  product_id: "248786582"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "317319559"
+  id: "886056379"
+  value: Mug
+- created_at: 2010-10-08 04:59:45
+  product_id: "459084718"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "408437751"
+  id: "888630603"
+  value: Tote
+- created_at: 2010-10-08 04:59:45
+  product_id: "1060500592"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "209471856"
+  id: "890856121"
+  value: 90% Cotton, 10% Nylon
+- created_at: 2010-10-08 04:59:45
+  product_id: "187438981"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "305002717"
+  id: "474718531"
+  value: short
+- created_at: 2010-10-08 04:59:45
+  product_id: "1025786064"
+  updated_at: 2010-10-08 04:59:45
+  property_id: "560029305"
+  id: "316341113"
+  value: Wilson

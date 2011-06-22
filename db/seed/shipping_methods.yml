@@ -1,0 +1,16 @@
+--- 
+- name: We will contact you to arrange shipping
+  created_at: 2011-05-05 19:54:07.657195
+  updated_at: 2011-05-05 20:03:06.695175
+  zone_id: "3"
+  id: "574015645"
+- name: We will contact you to arrange shipping
+  created_at: 2011-05-05 19:55:45.320807
+  updated_at: 2011-05-05 20:03:31.442061
+  zone_id: "1"
+  id: "574015646"
+- name: We will contact you to arrange shipping
+  created_at: 2011-05-05 19:56:04.705034
+  updated_at: 2011-05-05 20:03:19.768151
+  zone_id: "2"
+  id: "574015647"

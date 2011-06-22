@@ -1,0 +1,50 @@
+--- 
+- position: "2"
+  name: Green
+  option_type_id: "643188970"
+  created_at: 2010-10-08 04:59:44
+  updated_at: 2010-10-08 04:59:44
+  id: "278588964"
+  presentation: Green
+- position: "3"
+  name: Large
+  option_type_id: "935339117"
+  created_at: 2010-10-08 04:59:44
+  updated_at: 2010-10-08 04:59:44
+  id: "369541888"
+  presentation: L
+- position: "1"
+  name: Small
+  option_type_id: "935339117"
+  created_at: 2010-10-08 04:59:44
+  updated_at: 2010-10-08 04:59:44
+  id: "453955339"
+  presentation: S
+- position: "3"
+  name: Blue
+  option_type_id: "643188970"
+  created_at: 2010-10-08 04:59:44
+  updated_at: 2010-10-08 04:59:44
+  id: "506907318"
+  presentation: Blue
+- position: "2"
+  name: Medium
+  option_type_id: "935339117"
+  created_at: 2010-10-08 04:59:44
+  updated_at: 2010-10-08 04:59:44
+  id: "553775723"
+  presentation: M
+- position: "4"
+  name: Extra Large
+  option_type_id: "935339117"
+  created_at: 2010-10-08 04:59:44
+  updated_at: 2010-10-08 04:59:44
+  id: "574344309"
+  presentation: XL
+- position: "1"
+  name: Red
+  option_type_id: "643188970"
+  created_at: 2010-10-08 04:59:44
+  updated_at: 2010-10-08 04:59:44
+  id: "979459986"
+  presentation: Red

@@ -1,0 +1,325 @@
+--- 
+- created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  group_type: 
+  group_id: 
+  owner_id: "491052212"
+  id: "59769363"
+  value: "5"
+  attribute: amount
+  owner_type: Calculator
+- created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  group_type: 
+  group_id: 
+  owner_id: "192811543"
+  id: "87531454"
+  value: "10"
+  attribute: amount
+  owner_type: Calculator
+- created_at: 2010-10-08 04:59:45
+  updated_at: 2011-01-20 18:36:15.457989
+  group_type: 
+  group_id: 
+  owner_id: "574015644"
+  id: "174063089"
+  value: "0.0"
+  attribute: amount
+  owner_type: Calculator
+- created_at: 2010-10-08 04:59:45
+  updated_at: 2010-10-08 04:59:45
+  group_type: 
+  group_id: 
+  owner_id: "13537749"
+  id: "243735672"
+  value: "15"
+  attribute: amount
+  owner_type: Calculator
+- created_at: 2010-10-09 21:08:19.394642
+  updated_at: 2011-05-05 21:24:38.457127
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735673"
+  value: "0"
+  attribute: allow_ssl_in_production
+  owner_type: Configuration
+- created_at: 2010-10-09 21:08:19.664642
+  updated_at: 2010-10-09 21:08:19.664642
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735674"
+  value: store.asapana.com
+  attribute: site_url
+  owner_type: Configuration
+- created_at: 2010-10-09 21:08:19.674642
+  updated_at: 2010-10-09 21:08:19.674642
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735675"
+  value: "0"
+  attribute: allow_ssl_in_development_and_test
+  owner_type: Configuration
+- created_at: 2010-10-09 21:08:19.674642
+  updated_at: 2010-10-21 00:52:33.121898
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735676"
+  value: Asapana Store
+  attribute: site_name
+  owner_type: Configuration
+- created_at: 2010-10-21 00:52:33.07619
+  updated_at: 2011-06-22 22:35:48.852616
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735677"
+  value: "24"
+  attribute: products_per_page
+  owner_type: Configuration
+- created_at: 2011-01-04 00:00:18.108805
+  updated_at: 2011-01-04 00:00:18.108805
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735678"
+  value: "5"
+  attribute: cms_posts_per_page
+  owner_type: Configuration
+- created_at: 2011-01-04 00:00:18.143632
+  updated_at: 2011-01-04 00:00:18.143632
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735679"
+  value: "0"
+  attribute: cms_post_comment_default
+  owner_type: Configuration
+- created_at: 2011-01-04 00:00:18.149362
+  updated_at: 2011-01-04 00:00:18.149362
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735680"
+  value: "1"
+  attribute: cms_post_status_default
+  owner_type: Configuration
+- created_at: 2011-01-04 00:00:18.154088
+  updated_at: 2011-01-04 00:00:18.154088
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735681"
+  value: "1"
+  attribute: cms_page_status_default
+  owner_type: Configuration
+- created_at: 2011-01-04 00:00:18.160041
+  updated_at: 2011-01-04 00:00:18.160041
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735682"
+  value: "15"
+  attribute: cms_posts_recent
+  owner_type: Configuration
+- created_at: 2011-05-05 18:50:00.846095
+  updated_at: 2011-05-05 18:50:00.846095
+  group_type: 
+  group_id: 
+  owner_id: "842616224"
+  id: "243735683"
+  value: ""
+  attribute: signature
+  owner_type: PaymentMethod
+- created_at: 2011-05-05 18:50:00.961442
+  updated_at: 2011-05-05 18:50:00.961442
+  group_type: 
+  group_id: 
+  owner_id: "842616224"
+  id: "243735684"
+  value: test
+  attribute: server
+  owner_type: PaymentMethod
+- created_at: 2011-05-05 18:50:00.967157
+  updated_at: 2011-05-05 18:50:00.967157
+  group_type: 
+  group_id: 
+  owner_id: "842616224"
+  id: "243735685"
+  value: "1"
+  attribute: test_mode
+  owner_type: PaymentMethod
+- created_at: 2011-05-05 18:50:00.972269
+  updated_at: 2011-05-05 18:50:00.972269
+  group_type: 
+  group_id: 
+  owner_id: "842616224"
+  id: "243735686"
+  value: ""
+  attribute: password
+  owner_type: PaymentMethod
+- created_at: 2011-05-05 18:50:00.976979
+  updated_at: 2011-05-05 18:50:00.976979
+  group_type: 
+  group_id: 
+  owner_id: "842616224"
+  id: "243735687"
+  value: ""
+  attribute: login
+  owner_type: PaymentMethod
+- created_at: 2011-05-05 18:50:00.981591
+  updated_at: 2011-05-05 18:50:00.981591
+  group_type: 
+  group_id: 
+  owner_id: "842616224"
+  id: "243735688"
+  value: ""
+  attribute: currency_code
+  owner_type: PaymentMethod
+- created_at: 2011-05-05 19:55:25.239529
+  updated_at: 2011-05-05 19:55:25.239529
+  group_type: 
+  group_id: 
+  owner_id: "574015645"
+  id: "243735689"
+  value: "0.0"
+  attribute: amount
+  owner_type: Calculator
+- created_at: 2011-05-05 19:55:47.424177
+  updated_at: 2011-05-05 19:55:47.424177
+  group_type: 
+  group_id: 
+  owner_id: "574015646"
+  id: "243735690"
+  value: "0.0"
+  attribute: amount
+  owner_type: Calculator
+- created_at: 2011-05-05 19:56:07.647715
+  updated_at: 2011-05-05 19:56:07.647715
+  group_type: 
+  group_id: 
+  owner_id: "574015647"
+  id: "243735691"
+  value: "0.0"
+  attribute: amount
+  owner_type: Calculator
+- created_at: 2011-05-05 20:22:38.201146
+  updated_at: 2011-05-05 20:31:29.567582
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735692"
+  value: "587"
+  attribute: mail_port
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.211628
+  updated_at: 2011-05-05 20:22:38.211628
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735693"
+  value: store@asapana.com
+  attribute: smtp_username
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.216768
+  updated_at: 2011-05-05 20:31:29.575834
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735694"
+  value: plain
+  attribute: mail_auth_type
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.221749
+  updated_at: 2011-05-05 20:22:38.221749
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735695"
+  value: "1"
+  attribute: enable_mail_delivery
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.226887
+  updated_at: 2011-05-05 20:22:38.226887
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735696"
+  value: store@asapana.com
+  attribute: mails_from
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.233556
+  updated_at: 2011-05-05 20:22:38.233556
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735697"
+  value: smtp.gmail.com
+  attribute: mail_host
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.238575
+  updated_at: 2011-05-05 20:22:38.238575
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735698"
+  value: asapana.com
+  attribute: mail_domain
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.243471
+  updated_at: 2011-05-05 20:22:38.243471
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735699"
+  value: "0"
+  attribute: use_mail_queue
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.248376
+  updated_at: 2011-05-05 20:22:38.248376
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735700"
+  value: ananda15
+  attribute: smtp_password
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.253191
+  updated_at: 2011-05-05 20:22:38.253191
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735701"
+  value: patrice.henuset@asapana.com
+  attribute: order_bcc
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.25822
+  updated_at: 2011-05-05 20:22:38.25822
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735702"
+  value: patrice.henuset@asapana.com
+  attribute: mail_bcc
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.263058
+  updated_at: 2011-05-05 20:22:38.263058
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735703"
+  value: orders@asapana.com
+  attribute: order_from
+  owner_type: Configuration
+- created_at: 2011-05-05 20:22:38.268909
+  updated_at: 2011-05-05 20:31:29.61105
+  group_type: 
+  group_id: 
+  owner_id: "1"
+  id: "243735704"
+  value: TLS
+  attribute: secure_connection_type
+  owner_type: Configuration
